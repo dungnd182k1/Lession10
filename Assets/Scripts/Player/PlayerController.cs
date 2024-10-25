@@ -47,7 +47,6 @@ public class PlayerController : MonoBehaviour
         {
             grounded = true;
         }
-        if (col.gameObject.)
     }
 
 }
